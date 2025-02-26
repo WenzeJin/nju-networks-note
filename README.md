@@ -1,5 +1,6 @@
 ---
 icon: chart-network
+hidden: true
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -9,18 +10,18 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 计算机网络
 
-这是一份简单的计算机网络知识纲要，由当初的复习笔记整理而来。将会持续整理更新。
+这是一份简单的计算机网络知识纲要，由当初的复习笔记整理而来。将会持续整理更新。复习笔记是在不到一周的复习时间内产生的，所以难免有错误和遗漏，欢迎补充和修改这份知识纲要（通过右上方的链接进入 GitHub 仓库）。
 
 ***
 
