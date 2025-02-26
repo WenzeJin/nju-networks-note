@@ -1,7 +1,3 @@
----
-description: TODO
----
-
 # 网络层 第一部分 数据
 
 ## 功能与服务
@@ -23,7 +19,7 @@ Router Capacity = Number of ports X Speed of a port
 
 **Longest prefix matching rule**
 
-利用树状结构，将查询时间减小到实际意义上的O(1)&#x20;
+Longest Prefix Matching Rule（最长前缀匹配规则） 是一种路由查找算法，广泛应用于 IP 路由表的查找中。其基本思想是：当数据包需要根据目标地址选择一个路由时，选择与目标地址最长匹配的网络前缀。利用树状结构，将查询时间减小到实际意义上的O(1)&#x20;
 
 Ouput Port 需要对包的传输进行分类、缓存、调度。
 
